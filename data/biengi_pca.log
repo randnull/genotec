@@ -1,0 +1,24 @@
+PLINK v1.9.0-b.7.11 64-bit (19 Aug 2025)
+Options in effect:
+  --bfile biengi_ldpruned
+  --out biengi_pca
+  --pca 5
+
+Hostname: MacBook-Pro-Kirill.local
+Working directory: /Users/kirillgorunov/Documents/genotec/data
+Start time: Wed Apr 15 00:23:41 2026
+
+Random number seed: 1776201821
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+80640 variants loaded from .bim file.
+894 people (574 males, 320 females) loaded from .fam.
+Using up to 13 threads (change this with --threads).
+Before main variant filters, 894 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999027.
+80640 variants and 894 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to biengi_pca.eigenval and biengi_pca.eigenvec .
+
+End time: Wed Apr 15 00:23:42 2026

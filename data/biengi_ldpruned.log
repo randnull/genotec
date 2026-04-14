@@ -1,0 +1,26 @@
+PLINK v1.9.0-b.7.11 64-bit (19 Aug 2025)
+Options in effect:
+  --bfile biengi/biengi
+  --extract biengi_pruned.prune.in
+  --make-bed
+  --out biengi_ldpruned
+
+Hostname: MacBook-Pro-Kirill.local
+Working directory: /Users/kirillgorunov/Documents/genotec/data
+Start time: Wed Apr 15 00:21:09 2026
+
+Random number seed: 1776201669
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+242180 variants loaded from .bim file.
+894 people (574 males, 320 females) loaded from .fam.
+--extract: 80640 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 894 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999027.
+80640 variants and 894 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to biengi_ldpruned.bed + biengi_ldpruned.bim + biengi_ldpruned.fam
+... done.
+
+End time: Wed Apr 15 00:21:09 2026

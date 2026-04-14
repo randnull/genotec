@@ -1,0 +1,47 @@
+PLINK v1.9.0-b.7.11 64-bit (19 Aug 2025)
+Options in effect:
+  --bfile data/biengi/biengi
+  --indep-pairwise 50 5 0.2
+  --out data/biengi_pruned
+
+Hostname: MacBook-Pro-Kirill.local
+Working directory: /Users/kirillgorunov/Documents/genotec
+Start time: Wed Apr 15 00:13:48 2026
+
+Random number seed: 1776201228
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+242180 variants loaded from .bim file.
+894 people (574 males, 320 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 894 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999006.
+242180 variants and 894 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 12413 variants from chromosome 1, leaving 6359.
+Pruned 13756 variants from chromosome 2, leaving 6229.
+Pruned 11500 variants from chromosome 3, leaving 5345.
+Pruned 9363 variants from chromosome 4, leaving 4831.
+Pruned 10058 variants from chromosome 5, leaving 4836.
+Pruned 11235 variants from chromosome 6, leaving 4933.
+Pruned 8630 variants from chromosome 7, leaving 4358.
+Pruned 10006 variants from chromosome 8, leaving 4183.
+Pruned 8564 variants from chromosome 9, leaving 3954.
+Pruned 8400 variants from chromosome 10, leaving 4146.
+Pruned 7889 variants from chromosome 11, leaving 3786.
+Pruned 7837 variants from chromosome 12, leaving 3964.
+Pruned 5647 variants from chromosome 13, leaving 3006.
+Pruned 5070 variants from chromosome 14, leaving 2765.
+Pruned 4629 variants from chromosome 15, leaving 2512.
+Pruned 4559 variants from chromosome 16, leaving 2762.
+Pruned 4139 variants from chromosome 17, leaving 2616.
+Pruned 5372 variants from chromosome 18, leaving 2750.
+Pruned 2715 variants from chromosome 19, leaving 2036.
+Pruned 3921 variants from chromosome 20, leaving 2384.
+Pruned 2893 variants from chromosome 21, leaving 1400.
+Pruned 2944 variants from chromosome 22, leaving 1485.
+Pruning complete.  161540 of 242180 variants removed.
+Marker lists written to data/biengi_pruned.prune.in and
+data/biengi_pruned.prune.out .
+
+End time: Wed Apr 15 00:13:48 2026
