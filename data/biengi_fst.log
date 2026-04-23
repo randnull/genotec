@@ -1,0 +1,24 @@
+PLINK v2.0.0-a.6.33 M1 (28 Feb 2026)
+Options in effect:
+  --bfile data/biengi_ldpruned
+  --fst Population method=hudson
+  --out data/biengi_fst
+  --pheno data/biengi_clusters.txt
+  --pheno-name Population
+
+Hostname: MacBook-Pro-Kirill.local
+Working directory: /Users/kirillgorunov/Documents/genotec
+Start time: Wed Apr 22 19:00:49 2026
+
+Random number seed: 1776873649
+24576 MiB RAM detected; reserving 12288 MiB for main workspace.
+Using up to 14 threads (change this with --threads).
+894 samples (320 females, 574 males; 894 founders) loaded from
+data/biengi_ldpruned.fam.
+80640 variants loaded from data/biengi_ldpruned.bim.
+1 categorical phenotype loaded (894 values).
+--fst: Analyzing 894 samples across 28 populations.
+Autosomal --fst: done.
+Autosomal --fst: Summary written to data/biengi_fst.fst.summary .
+
+End time: Wed Apr 22 19:00:49 2026
