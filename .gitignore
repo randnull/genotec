@@ -1,2 +1,5 @@
 *.pdf
 .DS_STORE
+data/phased.vcf.gz
+data/*
+tools/*
