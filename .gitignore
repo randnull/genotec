@@ -3,3 +3,7 @@
 data/phased.vcf.gz
 data/*
 tools/*
+.venv-*/
+cba_comp_age_hw/
+hyphy-analyses/
+results/
